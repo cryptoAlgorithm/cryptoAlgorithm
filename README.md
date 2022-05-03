@@ -30,6 +30,8 @@ I'm currently working on **Swiftcord**, a completely native Discord client for m
 You can check out its GitHub repo [here](https://github.com/cryptoAlgorithm/Swiftcord), and join its Discord server
 below. Contributions and new issues (bug reports/suggestions) are welcome! <3
 
+![Screenshot of Swiftcord](https://github.com/cryptoAlgorithm/Swiftcord/blob/main/README_Resources/generalMessages.png)
+
 ## <img alt="📬" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f4ec.png" height="28px" align="left" /> Reaching Me
 Want to talk? Contact me through one of these methods:
 * **Email**: [hi@vinkwok.cf](mailto:hi@vinkwok.cf) or [kxzv3142@gmail.com](mailto:kxzv3142@gmail.com)
