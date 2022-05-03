@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...![image](https://user-images.githubusercontent.com/64193267/166432792-6827bf76-2cce-4da7-a74f-18440495d939.png)
+
 -->
 
 Thanks for stopping by!
@@ -25,10 +26,11 @@ Thanks for stopping by!
 ![CryptoAlgorithm's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryptoAlgorithm&bg_color=22272e&border_color=444c56&text_color=adbac7&show_icons=true&title_color=e72c2b&icon_color=ff565a)
 
 ## <img alt="💻" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f4bb.png" height="28px" align="left" /> My Projects
-I'm currently working on **Chatty**, a secure end-to-end encrypted and annonymous online chatting app. Check it out [here](https://app.chattyapp.cf)!
-> The repository is currently private due to major backend/frontend changes being made. It is currently in _alpha_, do not rely on it for anything important (yet)
+I'm currently working on **Swiftcord**, a completely native Discord client for macOS built 100% in Swift and SwiftUI!
+You can check out its GitHub repo [here](https://github.com/cryptoAlgorithm/Swiftcord), and join its Discord server
+below. Contributions and new issues (bug reports/suggestions) are welcome! <3
 
 ## <img alt="📬" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f4ec.png" height="28px" align="left" /> Reaching Me
 Want to talk? Contact me through one of these methods:
-* **Email**: [support@cryptoalgo.cf](mailto:support@cryptoalgo.cf) or [kxzv3142@gmail.com](mailto:support@cryptoalgo.cf)
-* **Discord**: `CryptoAlgo Team#0817`, Join the Chatty server at https://discord.gg/4sSCd6sXSJ
+* **Email**: [hi@vinkwok.cf](mailto:hi@vinkwok.cf) or [kxzv3142@gmail.com](mailto:kxzv3142@gmail.com)
+* **Discord**: `CryptoAlgo Team#0817`, Join the Swiftcord server at https://discord.gg/he7n6MGDXS!
