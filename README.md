@@ -27,10 +27,13 @@ Thanks for stopping by!
 
 ## <img alt="💻" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f4bb.png" height="28px" align="left" /> My Projects
 I'm currently working on **Swiftcord**, a completely native Discord client for macOS built 100% in Swift and SwiftUI!
-You can check out its GitHub repo [here](https://github.com/cryptoAlgorithm/Swiftcord), and join its Discord server
+You can check out its GitHub repo [here](https://github.com/SwiftcordApp/Swiftcord), and join its Discord server
 below. Contributions and new issues (bug reports/suggestions) are welcome! <3
 
-![Screenshot of Swiftcord](https://github.com/cryptoAlgorithm/Swiftcord/blob/main/README_Resources/generalMessages.png)
+![](https://github.com/SwiftcordApp/Swiftcord/raw/main/README_Resources/heroScreenshot.png)
+
+I also maintain [**DiscordKit**](https://github.com/SwiftcordApp/DiscordKit), a Discord API implementation for Swift,
+used by Swiftcord. 
 
 ## <img alt="📬" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f4ec.png" height="28px" align="left" /> Reaching Me
 Want to talk? Contact me through one of these methods:
