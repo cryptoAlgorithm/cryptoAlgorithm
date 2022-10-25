@@ -30,7 +30,8 @@ I'm currently working on **Swiftcord**, a completely native Discord client for m
 You can check out its GitHub repo [here](https://github.com/SwiftcordApp/Swiftcord), and join its Discord server
 below. Contributions and new issues (bug reports/suggestions) are welcome! <3
 
-![](https://github.com/SwiftcordApp/Swiftcord/raw/main/README_Resources/heroScreenshot.png)
+###### Animated Swiftcord Screenshot (Click image to view the original video video if it doesn't animate properly - known issue on Safari)
+[![](https://github.com/SwiftcordApp/.github/blob/main/res/hero.webp?raw=true)](https://github.com/SwiftcordApp/.github/blob/main/res/swiftcord-promo.mov?raw=true)
 
 I also maintain [**DiscordKit**](https://github.com/SwiftcordApp/DiscordKit), a Discord API implementation for Swift,
 used by Swiftcord. 
