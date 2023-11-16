@@ -23,7 +23,7 @@ Thanks for stopping by!
 ## <img alt="📈" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f4c8.png" height="28px" align="left" /> Some stats
 ![](https://github.com/cryptoAlgorithm/gh-stats/blob/master/generated/overview.svg)
 ![](https://github.com/cryptoAlgorithm/gh-stats/blob/master/generated/languages.svg)
-![CryptoAlgorithm's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryptoAlgorithm&bg_color=22272e&border_color=444c56&text_color=adbac7&show_icons=true&title_color=e72c2b&icon_color=ff565a)
+<!-- ![CryptoAlgorithm's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryptoAlgorithm&bg_color=22272e&border_color=444c56&text_color=adbac7&show_icons=true&title_color=e72c2b&icon_color=ff565a) -->
 
 ## <img alt="💻" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f4bb.png" height="28px" align="left" /> My Projects
 I'm currently working on **Swiftcord**, a completely native Discord client for macOS built 100% in Swift and SwiftUI!
