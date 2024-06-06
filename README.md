@@ -38,5 +38,5 @@ used by Swiftcord.
 
 ## <img alt="📬" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f4ec.png" height="28px" align="left" /> Reaching Me
 Want to talk? Contact me through one of these methods:
-* **Email**: [hi@vinkwok.cf](mailto:hi@vinkwok.cf) or [kxzv3142@gmail.com](mailto:kxzv3142@gmail.com)
-* **Discord**: `CryptoAlgo Team#0817`, Join the Swiftcord server at https://discord.gg/he7n6MGDXS!
+* **Email**: [me@vkwok.dev](mailto:me@vkwok.dev)
+* **Discord**: `@blahaj.gg`, Join the Swiftcord server at https://discord.gg/he7n6MGDXS!
